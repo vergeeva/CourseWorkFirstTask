@@ -1,0 +1,12 @@
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\bin\Debug\First.exe.config
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\bin\Debug\First.exe
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\bin\Debug\First.pdb
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\bin\Debug\First.xml
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.vbprojAssemblyReference.cache
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.Form1.resources
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.Resources.resources
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.vbproj.GenerateResource.cache
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.vbproj.CoreCompileInputs.cache
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.exe
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.xml
+C:\Users\nastya\Desktop\пары\Информационные системы\Курсовая работа\First\obj\Debug\First.pdb
